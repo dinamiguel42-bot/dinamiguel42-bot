@@ -10,7 +10,7 @@ Una apasionada estudiante de Negocios Internacionales con un amor por la cultura
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinamiguel42-bot)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 
 
