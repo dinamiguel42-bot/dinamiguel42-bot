@@ -1,3 +1,4 @@
+<img width="429" height="533" alt="image" src="https://github.com/user-attachments/assets/2f888843-e2d1-448a-bbfc-9bac62601605" />
 
 ## Hola, soy Nina 👋
 Una apasionada estudiante de Negocios Internacionales con un amor por la cultura, la música y la naturleza. Me encantan los conejos, los tulipanes, el té y sobre todo la música y mi grupo favorito es BTS, me insipira a ser mi mejor versión y a perseguir mis sueños. Difruto pasar tiempo sola, viendo una serie, cocinando o incluso yendo al GYM. Busco conectar con personas que compartan mis intereses y pasatiempos, y aprender de ellos. ¡Vamos a conectar y a hablar sobre negocios, música y conejos! 🫶🐰
