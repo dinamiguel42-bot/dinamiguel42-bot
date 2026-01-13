@@ -9,10 +9,6 @@ Una apasionada estudiante de Negocios Internacionales con un amor por la cultura
 
 
 
-}
-
-
-
 <!--
 **dinamiguel42-bot/dinamiguel42-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
